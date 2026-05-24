@@ -31,7 +31,7 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.6",
+    "react-router-dom": "^7.15.1",
     "ts-loader": "^9.5.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
@@ -44,7 +44,7 @@
     "pino": "^10.1.0",
     "playwright": "^1.56.1",
     "strip-comments": "^2.0.1",
-    "uuid": "^13.0.0"
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "build-test-app": "node ./node/build.testapp.js",
